@@ -1,21 +1,35 @@
 header {
     
     background-color: #2bcdc0;
-    height: 375px;
+    
     text-align: center;
-    line-height: 6;
+   
     color: white;
-    margin-bottom: 0px;
+   
 }
 
-h1 {
-    font-size: 60px;  
+h3 {
+    font-size: 60px;
+    line-height: 5; 
+     margin-top: 0px;
+     height:210px;
+     
 }
 
 img {
     height: 5%;
     width: 5%;
-    padding-top: -200px;
+    margin: 0px 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;  
+}
+
+.about {
+    line-height: 3;
+    font-size: 25px;
 }
 
 span {
