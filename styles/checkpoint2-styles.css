@@ -1,9 +1,6 @@
 header {
-    
     background-color: #2bcdc0;
-    
     text-align: center;
-   
     color: white;
    
 }
@@ -12,8 +9,7 @@ h3 {
     font-size: 60px;
     line-height: 5; 
      margin-top: 0px;
-     height:210px;
-     
+     height:210px;     
 }
 
 img {

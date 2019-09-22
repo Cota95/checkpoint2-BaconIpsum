@@ -1,0 +1,28 @@
+header {
+ text-align: center;
+ font-size: 30px;
+ background-color: mediumturquoise; 
+ margin: 0px; 
+ padding: 10px; 
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 3.5; 
+     margin-top: 0px;
+     height:210px;  
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    border: o;
+}
+
+main {
+    background-color: black;
+    margin: 0px;
+    margin-top: -10px;
+    display: flex;
+    height: 375px;
+}
